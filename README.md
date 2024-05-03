@@ -1,4 +1,4 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemy
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemy (section 4)
 
 Spring Data Rest dependency will scan for Jpa repository, just we need the entity and repository. Tihs application exposes the endpoints automatically.
 
